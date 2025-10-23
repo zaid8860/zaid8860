@@ -18,5 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaid8860&show_icons=true&locale=en" alt="zaid8860" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaid8860&" alt="zaid8860" /></p>
-fact: ...
--->
+
